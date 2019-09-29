@@ -482,7 +482,7 @@ $EndComp
 $Sheet
 S 9015 5325 1250 875 
 U 5D8DBEBF
-F0 "Switch Matirx" 50
-F1 "Switch Matirx.sch" 50
+F0 "Switch Matrix" 50
+F1 "Switch Matrix.sch" 50
 $EndSheet
 $EndSCHEMATC
